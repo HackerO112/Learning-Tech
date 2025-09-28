@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Status">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-blue?style=for-the-badge&logo=github&logoColor=white" alt="Maintained">
