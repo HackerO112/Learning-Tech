@@ -142,7 +142,7 @@ We extend our gratitude to:
 - **Project Lead**: [HackerO112](https://github.com/HackerO112)
 - **Technical Discussions**: [GitHub Discussions](https://github.com/HackerO112/Learning-Tech/discussions)
 - **Feature Requests**: [GitHub Issues](https://github.com/HackerO112/Learning-Tech/issues)
-- **Collaboration**: learning-tech@example.com
+- **Collaboration**: c94946435@gmail.com
 
 <div align="center">
   <p><em>Advancing technical knowledge through collaborative excellence</em></p>
