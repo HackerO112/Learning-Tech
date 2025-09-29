@@ -152,6 +152,6 @@ We extend our gratitude to:
 - **Collaboration**: c94946435@gmail.com
 
 # <div align="center">
-  <p><em>Made by gemini-2.5pro by prompted by me </em></p>
+  <p><em>Made by Gemini-2.5Pro  prompted by Me </em></p>
 </div>
 
