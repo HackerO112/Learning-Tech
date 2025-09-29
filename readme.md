@@ -1,4 +1,8 @@
-# https://learning-t3ch.netlify.app/
+<div align="center">
+  <h1>🚀 Learning-Tech: Advanced Technical Knowledge Repository</h1>
+  <p><em>A meticulously curated collection of cutting-edge technical resources</em></p>
+</div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Status">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-blue?style=for-the-badge&logo=github&logoColor=white" alt="Maintained">
@@ -8,10 +12,7 @@
   <img src="https://img.shields.io/github/forks/HackerO112/Learning-Tech?style=for-the-badge&logo=github&logoColor=white" alt="Forks">
 </div>
 
-<div align="center">
-  <h1>🚀 Learning-Tech: Advanced Technical Knowledge Repository</h1>
-  <p><em>A meticulously curated collection of cutting-edge technical resources</em></p>
-</div>
+# https://learning-t3ch.netlify.app/
 
 ---
 
