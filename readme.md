@@ -12,10 +12,10 @@
   <img src="https://img.shields.io/github/forks/HackerO112/Learning-Tech?style=for-the-badge&logo=github&logoColor=white" alt="Forks">
 </div>
 
-### <div align="center">
+<div align="center">
 https://learning-t3ch.netlify.app/
 </div>
----
+
 
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
