@@ -13,7 +13,9 @@
 </div>
 
 <div align="center">
+#--------------------------------# 
 https://learning-t3ch.netlify.app/
+#--------------------------------#
 </div>
 
 
@@ -147,7 +149,7 @@ We extend our gratitude to:
 - **Feature Requests**: [GitHub Issues](https://github.com/HackerO112/Learning-Tech/issues)
 - **Collaboration**: c94946435@gmail.com
 
-<div align="center">
-  <p><em>Advancing technical knowledge through collaborative excellence</em></p>
+# <div align="center">
+  <p><em>Made by gemini-2.5pro by prompted by me </em></p>
 </div>
-```
+
